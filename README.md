@@ -50,42 +50,23 @@ The dataset consists of real estate chatbot interactions, covering various inqui
 
 ## Insights Deep Dive
 
-### Customer Engagement & Inquiry Analysis
+### 1.Customer Engagement & Inquiry Analysis
 
 ####  Most Common Inquiries
 
 - Majority of inquiries are related to property details and booking viewings.
 - Financing and agent contact inquiries are less frequent but still important for lead conversion.
 
-  ```sql
-  select inquiry_type, count (*) AS Inquiry_count
-from real_estate_chatbot_data1
-Group By Inquiry_Type
-Order by Inquiry_count desc;
-```
-
 #### Most Used Chatbot Responses
 
 - The most frequent responses are providing property info and confirming viewings.
 - A small percentage of inquiries require human escalation.
 
-```sql
- select chatbot_response, count (*) AS Response_count
-from real_estate_chatbot_data1
-group by chatbot_response
-order by response_count desc
-```
-
 #### Total Chatbot Workload
 
 - Chatbots handle hundreds of inquiries daily, reducing manual workload.
 
-```sql
-select count (*) AS Total_inquiries
-from real_estate_chatbot_data1
-```
-
-### Response Time Analysis
+### 2.Response Time Analysis
 
 #### Average Response Time
 
@@ -95,21 +76,15 @@ from real_estate_chatbot_data1
 
 - The fastest response is 1 second, but some responses take too long, impacting customer experience.
 
-  ```sql
-  select MIN ("Response_time_seconds") AS Fastest_Response,
-MAX ("Response_Time_seconds") AS Slowest_Response
-From real_estate_chatbot_data1
-```
-
-### Lead Qualification & Conversion
+### 3.Lead Qualification & Conversion
 
 #### Booking Success Rate
 
 - The chatbot successfully schedules 55% of viewings, showing strong customer engagement.
 
-
 ## Recommendations 
 
+Based on the analysis, we recommend the following;
 ### Optimizing Chatbot Efficiency
  - Improve response speed by optimizing AI processing for complex inquiries.
  - Identify common delays and eliminate unnecessary chatbot loops.
