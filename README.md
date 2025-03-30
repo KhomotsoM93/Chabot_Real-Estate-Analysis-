@@ -8,7 +8,9 @@
 - [Insights Deep Dive](#insights-deep-dive)
 - [Recommendations](#recommendations)
   
-## Background & Overview 
+## Background & Overview
+
+---
 
 The real estate industry relies on timely communication and seamless customer engagement. AI chatbots have revolutionized customer interactions by providing instant responses, answering property inquiries, scheduling viewings, and even qualifying leads. This project aims to evaluate the efficiency of AI-powered chatbots in handling customer inquiries, reducing response time, and increasing lead conversion
 
