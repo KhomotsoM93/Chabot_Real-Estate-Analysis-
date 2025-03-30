@@ -22,12 +22,13 @@ The dataset consists of real estate chatbot interactions, covering various inqui
 
 ### Key Findings
 
-•	Most Common Inquiries: Property Info (40%), Booking (25%), Financing (20%)
-•	Average Response Time: 5.2 seconds
-•	Lead Qualification Rate: 48% of inquiries convert into leads
-•	Booking Success Rate: 55% of inquiries lead to a scheduled viewing
-•	Slowest Response Time: 10 seconds (needs optimization)
-•	Failed Conversions: Financing inquiries have the highest failure rate
+- Most Common Inquiries: Property Info (16), Booking (13), Financing (10)
+- Average Response Time: 5.2 seconds
+- Lead Qualification Rate: 48% of inquiries convert into leads
+- Booking Success Rate: 55% of inquiries lead to a scheduled viewing
+- Slowest Response Time: 10 seconds (needs optimization)
+- Fastest Response Time: 1 second
+- Failed Conversions: Financing inquiries have the highest failure rate
 
 ### Business Implications
 
