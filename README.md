@@ -22,9 +22,9 @@ The dataset consists of real estate chatbot interactions, covering various inqui
 
 ### Key Findings
 
-- Most Common Inquiries: Property Info (16), Booking (13), Financing (10)
+- Most Common Inquiries: Property Info (16), Booking (13), Financing (10), Other (7), Agent Contact (4)
 - Average Response Time: 5.2 seconds
-- Lead Qualification Rate: 48% of inquiries convert into leads
+- Lead Qualification Rate: 48% of inquiries convert into leads (24 out of 50 inquiries were qualified leads)
 - Booking Success Rate: 55% of inquiries lead to a scheduled viewing
 - Slowest Response Time: 10 seconds (needs optimization)
 - Fastest Response Time: 1 second
@@ -79,9 +79,11 @@ The dataset consists of real estate chatbot interactions, covering various inqui
 ### Optimizing Chatbot Efficiency
  - Improve response speed by optimizing AI processing for complex inquiries.
  - Identify common delays and eliminate unnecessary chatbot loops.
+   
 ### Enhancing Lead Conversion
  - Focus on better qualifying financing-related inquiries to boost conversion rates.
  - Personalize chatbot interactions for returning customers to build engagement.
+   
 ### Improving Booking Success
  - Provide real-time available slots for viewing instead of requiring manual confirmation.
  - Allow customers to connect with agents for special requests.
