@@ -1,0 +1,51 @@
+Inquiry_ID,Customer_Name,Inquiry_Type,Chatbot_Response,Response_Time (seconds),Lead_Qualified,Viewing_Booked
+INQ1000,Customer_0,Property Info,Please specify your request.,10,No,Yes
+INQ1001,Customer_1,Agent Contact,Your viewing has been scheduled for the selected date.,10,No,Yes
+INQ1002,Customer_2,Other,Please specify your request.,5,No,No
+INQ1003,Customer_3,Booking,Your viewing has been scheduled for the selected date.,6,No,No
+INQ1004,Customer_4,Booking,Here are the financing options available.,3,Yes,Yes
+INQ1005,Customer_5,Financing,Your viewing has been scheduled for the selected date.,1,No,No
+INQ1006,Customer_6,Booking,Please specify your request.,8,Yes,No
+INQ1007,Customer_7,Booking,Please specify your request.,4,No,Yes
+INQ1008,Customer_8,Property Info,Here are the financing options available.,5,Yes,No
+INQ1009,Customer_9,Other,Here is the property info you requested.,10,Yes,No
+INQ1010,Customer_10,Property Info,Your viewing has been scheduled for the selected date.,10,No,Yes
+INQ1011,Customer_11,Agent Contact,An agent will contact you shortly.,10,No,No
+INQ1012,Customer_12,Agent Contact,Your viewing has been scheduled for the selected date.,8,Yes,No
+INQ1013,Customer_13,Booking,Your viewing has been scheduled for the selected date.,5,No,No
+INQ1014,Customer_14,Financing,An agent will contact you shortly.,7,No,Yes
+INQ1015,Customer_15,Property Info,Here are the financing options available.,4,Yes,No
+INQ1016,Customer_16,Agent Contact,Here is the property info you requested.,2,Yes,No
+INQ1017,Customer_17,Agent Contact,An agent will contact you shortly.,4,No,Yes
+INQ1018,Customer_18,Property Info,An agent will contact you shortly.,5,No,Yes
+INQ1019,Customer_19,Financing,An agent will contact you shortly.,5,No,Yes
+INQ1020,Customer_20,Agent Contact,An agent will contact you shortly.,1,Yes,Yes
+INQ1021,Customer_21,Booking,Your viewing has been scheduled for the selected date.,3,Yes,No
+INQ1022,Customer_22,Financing,Your viewing has been scheduled for the selected date.,4,Yes,No
+INQ1023,Customer_23,Agent Contact,Please specify your request.,8,Yes,No
+INQ1024,Customer_24,Booking,Your viewing has been scheduled for the selected date.,8,Yes,No
+INQ1025,Customer_25,Other,Here is the property info you requested.,10,No,Yes
+INQ1026,Customer_26,Booking,Your viewing has been scheduled for the selected date.,3,Yes,No
+INQ1027,Customer_27,Agent Contact,Here are the financing options available.,7,No,Yes
+INQ1028,Customer_28,Property Info,An agent will contact you shortly.,6,No,Yes
+INQ1029,Customer_29,Financing,Your viewing has been scheduled for the selected date.,2,Yes,Yes
+INQ1030,Customer_30,Other,Please specify your request.,8,No,No
+INQ1031,Customer_31,Financing,Your viewing has been scheduled for the selected date.,10,Yes,Yes
+INQ1032,Customer_32,Other,Please specify your request.,7,No,No
+INQ1033,Customer_33,Property Info,Your viewing has been scheduled for the selected date.,1,No,No
+INQ1034,Customer_34,Agent Contact,Your viewing has been scheduled for the selected date.,2,Yes,Yes
+INQ1035,Customer_35,Property Info,Please specify your request.,10,Yes,Yes
+INQ1036,Customer_36,Financing,An agent will contact you shortly.,4,Yes,Yes
+INQ1037,Customer_37,Financing,Here is the property info you requested.,6,No,No
+INQ1038,Customer_38,Other,Your viewing has been scheduled for the selected date.,4,No,No
+INQ1039,Customer_39,Financing,An agent will contact you shortly.,9,Yes,Yes
+INQ1040,Customer_40,Property Info,Your viewing has been scheduled for the selected date.,8,Yes,No
+INQ1041,Customer_41,Financing,Your viewing has been scheduled for the selected date.,5,No,No
+INQ1042,Customer_42,Booking,Your viewing has been scheduled for the selected date.,5,No,Yes
+INQ1043,Customer_43,Other,Here is the property info you requested.,6,No,No
+INQ1044,Customer_44,Property Info,Here is the property info you requested.,1,No,No
+INQ1045,Customer_45,Property Info,Please specify your request.,7,No,Yes
+INQ1046,Customer_46,Financing,An agent will contact you shortly.,6,No,No
+INQ1047,Customer_47,Booking,Here are the financing options available.,2,No,No
+INQ1048,Customer_48,Booking,Here is the property info you requested.,10,Yes,Yes
+INQ1049,Customer_49,Agent Contact,Here is the property info you requested.,9,No,Yes
