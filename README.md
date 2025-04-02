@@ -14,8 +14,6 @@
 
 The real estate industry relies on timely communication and seamless customer engagement. AI chatbots have revolutionized customer interactions by providing instant responses, answering property inquiries, scheduling viewings, and even qualifying leads. This project aims to evaluate the efficiency of AI-powered chatbots in handling customer inquiries, reducing response time, and increasing lead conversion.
 
-![ERD](https://github.com/user-attachments/assets/79402672-cfb8-47aa-a951-e7bc8b04895b)
-
 ![chatbot chat](https://github.com/user-attachments/assets/2d753f58-c341-4081-b3d0-edc461b61fa0)
 
 
@@ -31,6 +29,8 @@ The real estate industry relies on timely communication and seamless customer en
 ## Data Structure Overview 
 
 The dataset consists of real estate chatbot interactions, covering various inquiry types, response times, lead qualifications, and booking conversions. For the database  
+
+![ERD](https://github.com/user-attachments/assets/79402672-cfb8-47aa-a951-e7bc8b04895b)
 
 ### Tools
 
