@@ -16,6 +16,9 @@ The real estate industry relies on timely communication and seamless customer en
 
 ![ERD](https://github.com/user-attachments/assets/79402672-cfb8-47aa-a951-e7bc8b04895b)
 
+![chatbot chat](https://github.com/user-attachments/assets/2d753f58-c341-4081-b3d0-edc461b61fa0)
+
+
 
 ### Key Business Questions
 
@@ -32,6 +35,7 @@ The dataset consists of real estate chatbot interactions, covering various inqui
 ### Tools
 
 - Microsoft SQL Server - Data Analysis & ERD
+- Excel - Visualisation 
 
 ## Executive  Summary 
 
